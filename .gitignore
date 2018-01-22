@@ -98,3 +98,6 @@ playground.xcworkspace
 # Package.resolved
 .build/
 
+.idea/
+!.idea/codeStyles
+
