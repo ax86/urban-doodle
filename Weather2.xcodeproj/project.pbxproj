@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1FC82EB42016505C00C70AAE /* CityTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FC82EB32016505C00C70AAE /* CityTableViewCell.m */; };
+		1FC82EBA2016664E00C70AAE /* CitySearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FC82EB92016664E00C70AAE /* CitySearchViewController.m */; };
 		1FE5B77820160965000810DF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FE5B77720160965000810DF /* AppDelegate.m */; };
 		1FE5B77B20160965000810DF /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FE5B77A20160965000810DF /* MasterViewController.m */; };
 		1FE5B77E20160965000810DF /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FE5B77D20160965000810DF /* DetailViewController.m */; };
@@ -20,6 +21,8 @@
 /* Begin PBXFileReference section */
 		1FC82EB22016505C00C70AAE /* CityTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CityTableViewCell.h; sourceTree = "<group>"; };
 		1FC82EB32016505C00C70AAE /* CityTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CityTableViewCell.m; sourceTree = "<group>"; };
+		1FC82EB82016664E00C70AAE /* CitySearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CitySearchViewController.h; sourceTree = "<group>"; };
+		1FC82EB92016664E00C70AAE /* CitySearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CitySearchViewController.m; sourceTree = "<group>"; };
 		1FE5B77320160965000810DF /* Weather2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FE5B77620160965000810DF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1FE5B77720160965000810DF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -70,6 +73,8 @@
 				1FE5B77A20160965000810DF /* MasterViewController.m */,
 				1FC82EB22016505C00C70AAE /* CityTableViewCell.h */,
 				1FC82EB32016505C00C70AAE /* CityTableViewCell.m */,
+				1FC82EB82016664E00C70AAE /* CitySearchViewController.h */,
+				1FC82EB92016664E00C70AAE /* CitySearchViewController.m */,
 				1FE5B77C20160965000810DF /* DetailViewController.h */,
 				1FE5B77D20160965000810DF /* DetailViewController.m */,
 				1FE5B77F20160965000810DF /* Main.storyboard */,
@@ -155,6 +160,7 @@
 				1FC82EB42016505C00C70AAE /* CityTableViewCell.m in Sources */,
 				1FE5B77B20160965000810DF /* MasterViewController.m in Sources */,
 				1FE5B77820160965000810DF /* AppDelegate.m in Sources */,
+				1FC82EBA2016664E00C70AAE /* CitySearchViewController.m in Sources */,
 				1FE5B78920160965000810DF /* main.m in Sources */,
 				1FE5B77E20160965000810DF /* DetailViewController.m in Sources */,
 			);
