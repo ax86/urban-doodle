@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ea434d-3152-4bab-8887-ac1c1a21c4c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Weather2/AppDelegate.m" afterPath="$PROJECT_DIR$/Weather2/AppDelegate.m" />
-      <change beforePath="$PROJECT_DIR$/Weather2/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/Weather2/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Weather2/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/Weather2/Base.lproj/Main.storyboard" />
     </list>
     <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/Weather2-eeatflrngpmwzzazqhbniycdzlvn/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppDelegate.h" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AppDelegate.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Weather2/AppDelegate.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -36,22 +37,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppDelegate.m" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Weather2/AppDelegate.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#152#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -140,12 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516624704106</updated>
-      <workItem from="1516624705730" duration="1921000" />
+      <workItem from="1516624705730" duration="2103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1921000" />
+    <option name="totallyTimeSpent" value="2103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="6" />
@@ -190,21 +186,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Weather2/AppDelegate.h">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Weather2/AppDelegate.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#152#175#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weather2/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
